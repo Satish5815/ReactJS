@@ -1,0 +1,12 @@
+.Card {
+    width: 300px;
+    background: linear-gradient(45deg, green, pink);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px black;
+
+}
+.card-body{
+    padding: 10px;
+}
